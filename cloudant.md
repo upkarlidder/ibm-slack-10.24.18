@@ -32,7 +32,7 @@
 
       ![IBM Sign up](assets/cloudant-service-creds-use.png)
 
-8. **Make a copy of example.env.json and name the file `env.json`**. 
+8. **Make a copy of example.env.json and name the file `.env.json`**. Note the dot before the name.
 
 9. Copy the credentials into this json file.
 
