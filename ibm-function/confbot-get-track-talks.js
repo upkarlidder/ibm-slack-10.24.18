@@ -18,7 +18,7 @@ function main(params) {
       selector: {
         tags: {
           $elemMatch: {
-            $regex: "(?i)" + params.tag
+            $regex: "(?i)" + params.track
           }
         }
       },
