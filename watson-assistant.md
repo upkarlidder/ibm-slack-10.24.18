@@ -14,7 +14,7 @@
 
     ![IBM Sign up](assets/ibm-wa-create.jpg)
 
-4. Once the service is provisioned, `Launch` the took
+4. Once the service is provisioned, click on `Launch tool`.
 
     ![IBM Sign up](assets/ibm-wa-launch.jpg)
 
