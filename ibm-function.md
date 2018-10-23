@@ -66,8 +66,7 @@
 
 14. Click on `Create` to create a new action. Pick `Create Action`. 
 
-    ![IBM Sign up](assets/ibm-function-get-random-invoke.jpg)
-ibm-function-new-action
+    ![IBM Sign up](assets/ibm-function-new-action.jpg)
 
 15. Give your action the name `confbot-get-track-talks`. Pick `confbot` as the enclosing package.
 
