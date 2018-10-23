@@ -6,8 +6,7 @@ require("dotenv-json")();
 // configure cloudant
 const cloudantConfig = {
   account: process.env.username,
-  password: process.env.password,
-  plugins: 'promises'
+  password: process.env.password
 }
 
 const dbName = 'conference';
