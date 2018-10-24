@@ -53,40 +53,4 @@
 
     ![IBM Sign up](assets/ibm-function-get-random-invoke.jpg)
 
-## Create an action to get three talks for a given `tag/track`
-
-13. Click `Actions` to go to the main page.
-
-    ![IBM Sign up](assets/ibm-function-go-home.jpg)
-
-    You should see the function you created in the previous step.
-    
-    ![IBM Sign up](assets/ibm-function-go-home-2.jpg)
-
-
-14. Click on `Create` to create a new action. Pick `Create Action`. 
-
-    ![IBM Sign up](assets/ibm-function-new-action.jpg)
-
-15. Give your action the name `confbot-get-track-talks`. Pick `confbot` as the enclosing package.
-
-    ![IBM Sign up](assets/ibm-function-track-talks-create.jpg)
-
-16. Once you click `Create`, you will be brought into the action.
-
-    ![IBM Sign up](assets/ibm-function-track-talks-create-2.jpg)
-
-17. Click on params and set the following.
-
-    ![IBM Sign up](assets/ibm-function-track-talks-params.png)
-
-18. Click on `code` and add the contents of the file `ibm-function/confbot-get-track-talks.js` to the action.
-
-    ![IBM Sign up](assets/ibm-function-track-talks-code.jpg)
-
-19. Click on `invoke` to run the function. You should see three talks with the tags `scala` in the output.
-
-    ![IBM Sign up](assets/ibm-function-track-talks-invoke.jpg)
-
 ### [Go back to main page](README.md)
-
