@@ -22,7 +22,7 @@
            }
          }
        },
-       fields: ["author", "author_desc", "title", "desc", "date_time", "tags"],
+       fields: ["author", "author_desc", "title", "desc", "date_time", "tags", "url", "author_img"],
        limit: 3
      }
  
