@@ -47,7 +47,8 @@
     `npm install`
 
     `node cloudant-upload.js`
-
+    
+(in some windows env, the above js may not work because L#8 "  account: process.env.username," in cloudant-upload.js may pick up the OS username instead of the "username" in the .env.json. When this happens, you can change username --> username1 in both cloudant-upload.js and .env.json. Then it will work fine.) 
 
       ![IBM Sign up](assets/cloudant-upload-script.jpg)
 
