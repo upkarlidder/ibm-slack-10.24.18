@@ -77,7 +77,7 @@
 
     ![IBM Sign up](assets/ibm-function-post-slack-params.jpg)
 
-17. Click on `code` and add the contents of the file `ibm-function/congbot-post-slack.js` to the action.
+17. Click on `code` and add the contents of the file `ibm-function/confbot-post-slack.js` to the action.
 
     ![IBM Sign up](assets/ibm-function-post-slack-code.jpg)
 ### [Go back to main page](README.md)
